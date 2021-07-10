@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "540911726079",
+    "project_id": "loggogl",
+    "storage_bucket": "loggogl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540911726079:android:3dd73bdcfd90ecf304cbca",
+        "android_client_info": {
+          "package_name": "com.example.loginwithgoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540911726079-k7hhhg55rimvc2sol2e9j2e1ig85gqnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfteAJ4HrcidXxW7Ng4DaYsqMsE6nurRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540911726079-k7hhhg55rimvc2sol2e9j2e1ig85gqnp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
